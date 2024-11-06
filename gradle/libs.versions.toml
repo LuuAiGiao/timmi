@@ -1,0 +1,8 @@
+[versions]
+firebaseFirestore = "25.1.1"
+
+[libraries]
+firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore", version.ref = "firebaseFirestore" }
+
+[plugins]
+
